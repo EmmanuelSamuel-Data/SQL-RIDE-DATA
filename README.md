@@ -109,7 +109,40 @@ Revenue shows quarterly variation, indicating possible seasonality
 
 Driver consistency analysis distinguishes reliable drivers from occasional high performers
 
-✅ Conclusion
+# 🚖 Ride Data Analysis (SQL)
+
+## 📌 Overview
+
+This project analyzes ride-sharing data to evaluate driver performance and consistency over time. The focus is on identifying the most active drivers based on their average monthly ride activity since signup.
+
+## 🎯 Objectives
+
+* Calculate average monthly rides per driver
+* Identify the top 5 most consistent drivers
+* Analyze driver activity trends over time
+
+## 🛠 Tools
+
+* SQL
+
+## 📊 Key Analysis
+
+* Extracted ride activity using pickup and drop-off timestamps
+* Calculated monthly ride counts per driver
+* Computed average monthly rides since each driver’s signup date
+* Ranked drivers based on consistency and activity level
+
+## 📈 Key Insights
+
+* Top drivers maintain consistently high ride volumes across months
+* Driver activity varies significantly, with a small group driving the majority of rides
+* Average monthly rides provide a more accurate performance metric than total rides
+
+💡 Recommendations
+
+* Reward highly consistent drivers to improve retention
+* Monitor low-activity drivers for engagement opportunities
+* Use monthly averages for fair performance evaluation.
 
 
-This project demonstrates how SQL can be used to analyze operational ride data and generate meaningful business insights. By aligning technical queries with real business questions, the analysis supports strategic decision-making in customer retention, revenue optimization, and driver performance.
+
