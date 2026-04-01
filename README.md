@@ -28,7 +28,7 @@ This project analyzes ride-sharing data to uncover insights into rider behavior,
 **🔍 Key Business Questions & Analysis**
 
 
-* 1. 🚗 Longest Rides
+1. 🚗 Longest Rides
 
 
 Identified the top 10 longest rides based on distance, including driver, rider, route, and payment method.
@@ -56,7 +56,7 @@ Business Value:
 
 Provides insight into customer loyalty and long-term platform engagement.
 
-* 3. 📈 Revenue Trends & Growth
+ 3. 📈 Revenue Trends & Growth
 
 
 Calculated quarterly revenue from 2021 to 2024 and measured Year-over-Year (YoY) growth using window functions.
@@ -73,7 +73,7 @@ Business Value:
 
 Identifies growth patterns, seasonality, and high-performing periods.
 
-* 4. 🚕 Driver Consistency (Core Analysis)
+ 4. 🚕 Driver Consistency (Core Analysis)
 
 
 Measured driver performance based on average monthly rides since signup, ensuring consistency over time.
